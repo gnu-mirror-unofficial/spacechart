@@ -1,3 +1,23 @@
+Changes in version 0.9.5
+------------------------
+
+	* SpaceChart is now part of the GNU Project.
+
+	* Added bulgarian translation.
+
+	* Added french translation.
+
+	* Added saving configuration files.
+
+	* SpaceChart now uses Right Ascension instead of longitude when
+	interacting with users.
+
+	* You can now see a list of all stars in the current dialog, and
+	center the map on any of them.
+
+	* The default data file now comes from Hipparcos/CCDM. Read 
+	data/README to find out more.
+
 Changes in version 0.9.4
 ------------------------
 
